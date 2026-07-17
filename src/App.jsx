@@ -12,14 +12,14 @@ function App() {
 
       <input
         type="number"
-        placeholder="First Number"
+        placeholder="Enter First Number"
         value={num1}
         onChange={(e) => setNum1(e.target.value)}
       />
 
       <input
         type="number"
-        placeholder="Second Number"
+        placeholder="Enter Second Number"
         value={num2}
         onChange={(e) => setNum2(e.target.value)}
       />
