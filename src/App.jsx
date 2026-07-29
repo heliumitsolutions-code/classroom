@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Mathrubhumi Calculator</h1>
+      <h1>MBIT Calculator</h1>
 
       <input
         type="number"
